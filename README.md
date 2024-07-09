@@ -21,6 +21,7 @@ This project presents the development of a cost-effective OFDM radar system empl
 
 The proposed radar system is designed explicitly for Unmanned Ground Vehicle (UGV) applications. It employs a virtual antenna technique to extend the antenna aperture, thereby covering a more effective measurement area. This approach ensures a broader and more detailed coverage, essential for the navigation and operation of UGVs in complex environments.
 
+![](https://github.com/1Px-Vision/OFDM_RADAR/blob/main/Radar_UGV.jpg)
 
 
 
