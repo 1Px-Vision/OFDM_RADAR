@@ -16,3 +16,14 @@ Adopting OFDM in radar systems offers significant improvements over LFM-modulate
 # Project Scope
 
 This project presents the development of a cost-effective OFDM radar system employing multi-carrier in-band S technology in a 1x2 MIMO configuration. The system focuses on generating 2D images using the Range Doppler Algorithm (RDA), with enhanced spatial resolution achieved through carrier control and phase adjustment.
+
+# Application in Unmanned Ground Vehicles
+
+The proposed radar system is designed explicitly for Unmanned Ground Vehicle (UGV) applications. It employs a virtual antenna technique to extend the antenna aperture, thereby covering a more effective measurement area. This approach ensures a broader and more detailed coverage, essential for the navigation and operation of UGVs in complex environments.
+
+
+
+
+
+
+
