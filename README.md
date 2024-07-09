@@ -12,3 +12,7 @@ Adopting OFDM in radar systems offers significant improvements over LFM-modulate
 
 > [!TIP]
 > The integration of OFDM in microwave imaging systems markedly improves resolution and aperture synthesis, making it a superior choice for high-precision applications.
+
+# Project Scope
+
+This project presents the development of a cost-effective OFDM radar system employing multi-carrier in-band S technology in a 1x2 MIMO configuration. The system focuses on generating 2D images using the Range Doppler Algorithm (RDA), with enhanced spatial resolution achieved through carrier control and phase adjustment.
