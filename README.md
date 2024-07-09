@@ -10,3 +10,6 @@ Adopting OFDM in radar systems offers significant improvements over LFM-modulate
 * **Controlled Bandwidth:** Enabling better control over the transmission spectrum.
 * **Reduced Range Ambiguity:** Incorporation of a cyclic prefix (CP) to mitigate range ambiguity.
 
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
