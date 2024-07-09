@@ -6,7 +6,7 @@ permits simultaneous transmission from multiple antennas via spectral division, 
 # Advantages of OFDM in Radar Systems
 Adopting OFDM in radar systems offers significant improvements over LFM-modulated systems, particularly in spatial resolution. These enhancements are achieved through:
 
-* Space Diversity: Utilization of Multiple Input Multiple Output (MIMO) array antennas.
-* Controlled Bandwidth: Enabling better control over the transmission spectrum.
-* Reduced Range Ambiguity: Incorporation of a cyclic prefix (CP) to mitigate range ambiguity.
+* **Space Diversity:** Utilization of Multiple Input Multiple Output (MIMO) array antennas.
+* **Controlled Bandwidth:** Enabling better control over the transmission spectrum.
+* **Reduced Range Ambiguity:** Incorporation of a cyclic prefix (CP) to mitigate range ambiguity.
 
